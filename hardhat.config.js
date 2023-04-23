@@ -9,7 +9,7 @@ require("hardhat-deploy")
 
 const SEPOLIA_RPC_URL =
     process.env.SEPOLIA_RPC_URL ||
-    "https://eth-sepolia.g.alchemy.com/v2/BkywNLkTDdrGM2fvoybJ5Hqz39E-BtAJ"
+    "https://eth-sepolia.g.alchemy.com/v2/MLRVvELv_3hVHomijV5xLCvKVidcoo1E"
 
 const PRIVATE_KEY = process.env.PRIVATE_KEY || "0x"
 const ETHERSCAN_API_KEY =
